@@ -1,0 +1,25 @@
+STL translation to Solid Edge
+Date: Thursday,June 24,2021 09:21PM
+Source File:C:\Users\sumit\Downloads\files\Mars_GearOut56T.stl
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-10850H CPU @ 2.70GHz
+Operating System: Windows 10 Professional
+Installed Memory: 15.60 GB
+
+Software Information:
+Parasolid Version: 32.1.222
+PSBodyshop Version: 32.1.94
+Solid Edge Version: 221.00.03.003 x64
+
+STL Import Options
+Heal Mesh Faults:Off
+Make Base Feature:On
+Enable Logging:On
+
+Translation progress:
+Translation process completed
+Time required to translate:00 : 00 : 01
